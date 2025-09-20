@@ -6,6 +6,6 @@ public class Lab013_Println_vs_Print {
         System.out.println("Bye");*/  // ln -> newline
 
         System.out.print("Hello ");
-        System.out.print("Bye");
+        System.out.println("Bye");
     }
 }
