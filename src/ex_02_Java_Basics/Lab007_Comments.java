@@ -11,7 +11,7 @@ public class Lab007_Comments {
     public static void main(String[] args) {
         // Method implementation
 
-        //        System.out.println("Hello");
+                System.out.println("Hello");
        // System.out.println("World");
 
     }
